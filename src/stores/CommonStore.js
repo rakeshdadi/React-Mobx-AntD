@@ -6,14 +6,14 @@ class CommonStore {
             orderNumber : '#1234',
             status: 'on_hold',
             date: '04/2019',
-            name : 'ksjdsk',
+            name : 'Georgine',
             strips: '15Rxs'
         },
         {
             orderNumber : '#2546',
             status: 'in_process',
             date: '02/2019',
-            name : 'sdmsd,smd',
+            name : '',
             strips: '3Rxs'   
         }
     ];
